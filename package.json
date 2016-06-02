@@ -1,0 +1,22 @@
+{
+  "name": "react-native-sglistview-xc",
+  "version": "0.1.4",
+  "description": "A React Native module to provide a memory efficent ListView over the native implementation,Forked From react-native-sglistview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "x": "open example/ios/example.xcodeproj"
+  },
+  "keywords": [
+    "ReactNative",
+    "ListView"
+  ],
+  "author": {
+    "name" : "xiongchuan",
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/xiongchuan86/react-native-sglistview-xc",
+  "peerDependencies": {
+    "react-native": ">=0.26.0"
+  }
+}
